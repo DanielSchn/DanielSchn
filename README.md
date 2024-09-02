@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Angular<br>
+🌱 I’m currently learning Django<br>
 👨‍💻 You can find my portfolio at www.dschneider-dev.de
 
 # 📊 GitHub Stats:
