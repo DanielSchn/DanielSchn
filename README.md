@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api?username=DanielSchn&show_icons=true&theme=dark&locale=en)](https://github.com/DanielSchn)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=DanielSchn&theme=dark)](https://github.com/DanielSchn)
+<!-- [![](https://github-readme-streak-stats.herokuapp.com/?user=DanielSchn&theme=dark)](https://github.com/DanielSchn) -->
